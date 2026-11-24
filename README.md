@@ -29,9 +29,9 @@ Restaurant chains operating across multiple cities need clear visibility into re
 
 ## 🖼 Dashboard Preview
 
-*(Tip: Export a high-resolution screenshot of your Excel dashboard as `dashboard_preview.png`, upload it to this repo, and uncomment the line below)*
 
-<!-- ![Restaurant Sales Dashboard](dashboard_preview.png) -->
+
+ ![Restaurant Sales Dashboard](sales_analysis_dashboard.png) 
 
 ## 🚀 How to Explore This Project
 
